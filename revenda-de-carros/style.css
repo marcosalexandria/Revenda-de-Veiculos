@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+}
+
+img{
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+
+div{
+    margin: 10px;
+}
